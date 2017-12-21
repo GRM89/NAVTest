@@ -1,0 +1,25 @@
+{
+  "id": "b7cbfb3b-9879-437e-bf70-2872d8d39100",
+  "name": "Application",
+  "publisher": "GRM",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "0.0.0.0",
+  "privacyStatement": "",
+  "showMyCode": true,
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.12925.0",
+  "application": "11.0.19394.0",
+  "features": "TranslationFile",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
